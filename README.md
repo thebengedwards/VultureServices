@@ -70,7 +70,7 @@ To just 'check out' the project and see how we got the code to work, clone the r
 -   Clone the repo
 
 ```sh
-git clone https://github.com/theBenEdwards/NeoBot.git
+git clone https://github.com/theBenEdwards/VultureServices.git
 ```
 
 <!-- THE TEAM -->
