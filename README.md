@@ -11,7 +11,7 @@
     <img src="images/Logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">VultureServices</h3>
+  <h3 align="center">Vulture Services</h3>
 
   <p align="center">
     Second Year Project at Northumbria University Newcastle
