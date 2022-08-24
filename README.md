@@ -51,8 +51,6 @@
 
 The aim of this project was to create a system for motor engineers to manage their time and resources more effectively.
 
-People who participated on this project:
-
 This is the list of dependencies and tools we used to create this project:
 
 ### Built With
